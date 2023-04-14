@@ -18,10 +18,9 @@ Aquí te dejo un demo 👇
 
 ![calculadora](https://user-images.githubusercontent.com/74316958/232086879-b82df9ef-8ece-4b91-9164-48ddfc1f1cdd.gif)
 
-
-![](https://i3.ytimg.com/vi/oTyRk56WyAI/mqdefault.jpg?v=6129245c&sqp=CMzg5aEG&rs=AOn4CLBmtrrrC9PNHTOthdX3J2ZPLBEIZQ![image](https://user-images.githubusercontent.com/74316958/232087262-d67ca664-6c5c-4ffc-85a3-4c9891bcd4b0.png)
-
 ## Aquí encontrarás más recursos
+
+![](https://i9.ytimg.com/vi/oTyRk56WyAI/mqdefault.jpg?v=6129245c&sqp=CKjs5aEG&rs=AOn4CLCoqo6Rqh69lCT1Ry05_217skM5FA)
 
 <br/>
 Enlace al video:
