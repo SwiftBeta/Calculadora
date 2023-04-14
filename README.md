@@ -9,13 +9,19 @@
 <br/>
 [![Discord](https://img.shields.io/discord/922567653778944031?style=social&label=Discord&logo=discord)](https://www.swiftbeta.com/discord)
 
-Aprende a crear una calculadora programando en Swift y SwiftUI. Aquí te dejo un demo.
+Aprende a crear una calculadora programando en Swift y SwiftUI.
+<br/>
+Usamos la ⛩️ Arquitectura Model-View-ViewModel (MVVM) en SwiftUI.
+<br/>
+<br/>
+Aquí te dejo un demo 👇
 
 ![calculadora](https://user-images.githubusercontent.com/74316958/232086879-b82df9ef-8ece-4b91-9164-48ddfc1f1cdd.gif)
 
 
 ![](https://i3.ytimg.com/vi/oTyRk56WyAI/mqdefault.jpg?v=6129245c&sqp=CMzg5aEG&rs=AOn4CLBmtrrrC9PNHTOthdX3J2ZPLBEIZQ![image](https://user-images.githubusercontent.com/74316958/232087262-d67ca664-6c5c-4ffc-85a3-4c9891bcd4b0.png)
-)
+
+## Aquí encontrarás más recursos
 
 <br/>
 Enlace al video:
