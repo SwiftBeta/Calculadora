@@ -20,7 +20,7 @@ Aquí te dejo un demo 👇
 
 ## Aquí encontrarás más recursos
 
-![](https://i9.ytimg.com/vi/oTyRk56WyAI/mqdefault.jpg?v=6129245c&sqp=CKjs5aEG&rs=AOn4CLCoqo6Rqh69lCT1Ry05_217skM5FA)
+![](https://i3.ytimg.com/vi/oTyRk56WyAI/mqdefault.jpg?v=6129245c&sqp=CKjs5aEG&rs=AOn4CLCoqo6Rqh69lCT1Ry05_217skM5FA)
 
 <br/>
 Enlace al video:
